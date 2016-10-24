@@ -1,0 +1,3 @@
+需在本地安装Redis   修改RedisTool配置信息
+
+修改后运行ServerListener类
